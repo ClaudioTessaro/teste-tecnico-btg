@@ -1,0 +1,4 @@
+2024-01-03;ACME Corp;invoice-1001;1499.90
+2024-01-11;Café Lumière;invoice-1002;238.00
+2024-01-19;Nordwind GmbH;invoice-1003;12750.55
+2024-01-27;Tanaka Trading;invoice-1004;980.10

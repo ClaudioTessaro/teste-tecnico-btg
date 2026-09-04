@@ -1,0 +1,3 @@
+2024-02-02;ACME Corp;invoice-1005;3120.00
+2024-02-14;Estúdio Aurora;invoice-1006;745.25
+2024-02-23;Nordwind GmbH;invoice-1007;60.00

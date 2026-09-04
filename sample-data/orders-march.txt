@@ -1,0 +1,4 @@
+2024-03-05;Tanaka Trading;invoice-1008;4300.75
+2024-03-16;Café Lumière;invoice-1009;1180.40
+2024-03-21;Estúdio Aurora;invoice-1010;99.99
+2024-03-29;ACME Corp;invoice-1011;22050.00
